@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges that occurred while trying to build the application was importing because some of the stuff was outdated and I had to figure out what continued to work and what did not. Another issue was figuring out all the tools of the emulator but I figures it out sooner rather than later. Other than that, it was a fun creation and my first time working with Android Studio!
 
 ## License
 
